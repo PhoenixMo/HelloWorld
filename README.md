@@ -2,10 +2,8 @@
 
 ## 我
 
-<<<<<<< HEAD
+
  闲......不对,是咸，咸鱼的咸
-
-
 
 
 [Baidu] (https://www.baidu.com)
