@@ -4,7 +4,6 @@ var K=" ";
  console.log("就先...强行只输5行吧");
 var n:number =5;
 hua(n);
-
 function hua(n:number):void {
     for(var i=1;i<=n;i++) {
         var C="";
