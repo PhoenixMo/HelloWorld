@@ -17,5 +17,4 @@ function hua(n:number):void {
       console.log(C);
     }
 }
-
 console.log("END");
